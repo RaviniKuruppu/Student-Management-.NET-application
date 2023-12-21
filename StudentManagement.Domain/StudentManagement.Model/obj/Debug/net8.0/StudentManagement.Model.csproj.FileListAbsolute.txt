@@ -1,0 +1,16 @@
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\bin\Debug\net8.0\StudentManagement.Model.deps.json
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\bin\Debug\net8.0\StudentManagement.Model.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\bin\Debug\net8.0\StudentManagement.Model.pdb
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.AssemblyInfoInputs.cache
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.AssemblyInfo.cs
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.csproj.CoreCompileInputs.cache
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.sourcelink.json
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\refint\StudentManagement.Model.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.pdb
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\ref\StudentManagement.Model.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.csproj.AssemblyReference.cache
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Model\obj\Debug\net8.0\StudentManagement.Model.csproj.CopyComplete

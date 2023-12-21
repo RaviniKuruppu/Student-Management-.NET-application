@@ -1,0 +1,12 @@
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.deps.json
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfo.cs
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.sourcelink.json
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\refint\StudentManagement.Domain.dll
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\ravinik\source\repos\.NET-application\StudentManagement.Domain\StudentManagement.Domain\obj\Debug\net8.0\ref\StudentManagement.Domain.dll
