@@ -8,21 +8,21 @@ This project is a .NET Core application built on the principles of Clean Archite
 
 The project follows the Clean Architecture pattern, separating concerns into distinct layers:
 
-Presentation Layer: Contains the application's user interface, controllers, and views.
+**Presentation Layer**: Contains the application's user interface, controllers, and views.
 
-Application Layer: Implements use cases and orchestrates the flow of data between the Presentation and Domain layers.
+**Application Layer**: Implements use cases and orchestrates the flow of data between the Presentation and Domain layers.
 
-Domain Layer: Holds the business logic, entities, and domain services.
+**Domain Layer**: Holds the business logic, entities, and domain services.
 
-Infrastructure Layer: Deals with external concerns such as databases, external services, and implementations of repository interfaces.
+**Infrastructure Layer**: Deals with external concerns such as databases, external services, and implementations of repository interfaces.
 
 # Design Patterns
 
 The project incorporates several design patterns to enhance its structure and maintainability:
 
-1.Repository Pattern: Enables a separation of concerns by abstracting the data access logic into repositories.
+1. **Repository Pattern**: Enables a separation of concerns by abstracting the data access logic into repositories.
 
-2.Unit of Work Pattern: Manages the transactional boundaries and ensures a consistent state of the data.
+2. **Unit of Work Pattern**: Manages the transactional boundaries and ensures a consistent state of the data.
 
 # Dependency Injection
 
